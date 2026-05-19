@@ -8,3 +8,6 @@ Ensure you have Python installed, then install the external dependencies[cite: 2
 
 ```bash
 pip install -r requirements.txt
+```
+```Terminal
+python3 see_music_fixed.py
