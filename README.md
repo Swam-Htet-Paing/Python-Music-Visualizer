@@ -4,7 +4,7 @@ A lightweight Python application that visualizes audio frequencies in real-time 
 
 ## Prerequisites & Installation
 
-Ensure you have Python installed, then install the external dependencies[cite: 2]:
+Ensure you have Python installed, then install the external dependencies
 
 ```bash
 pip install -r requirements.txt
